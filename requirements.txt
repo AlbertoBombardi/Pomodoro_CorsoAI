@@ -1,0 +1,7 @@
+# Librerie necessarie per pomodoro3.py
+# Installazione: pip install -r requirements.txt
+ 
+opencv-python        # webcam e gestione immagini
+ultralytics>=8.3.0   # YOLO (yolo11s.pt richiede almeno la 8.3.0)
+mediapipe>=0.10.0    # rilevamento volti (API "tasks")
+ 
